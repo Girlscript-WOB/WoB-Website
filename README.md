@@ -39,17 +39,29 @@ Before you begin, ensure you have met the following requirements:
 ## File Structure
 
 winter-of-blockchain-web3/
+
 ├── public/                 # Static files
+
 │   └── index.html          # Main HTML file
+
 ├── src/                    # Source code
+
 │   ├── components/         # React components
+
 │   ├── smart-contracts/    # Smart contract files
+
 │   ├── App.js              # Main application component
+
 │   ├── index.js            # Entry point of the application
+
 │   └── styles.css          # Main CSS styles
+
 ├── scripts/                # Deployment scripts
+
 │   └── deploy.js           # Script to deploy smart contracts
+
 ├── README.md               # Project documentation
+
 └── package.json            # Project metadata and dependencies
 
 ## Responsive Design
